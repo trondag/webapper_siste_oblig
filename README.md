@@ -3,7 +3,8 @@ Dette er den siste obligatoriske oppgaven i faget webapplikasjoner.
 Prosjektet inneholder en mappe for webapplikasjonen, og en mappe for APIet.
 Webapplikasjonen inneholder også 5 tester
 ## Hvordan kjøre dette?
-<i>NB! Du er nødt til å ha mongoDB installert for at APIet skal fungere!</i>
+<i>NB! Du er nødt til å ha mongoDB installert for at APIet skal fungere!</i><br>
+<i>Connection string: mongodb://localhost:27017/poll-api</i>
 1. Kjøre webapplikasjonen
 ```
 cd siste-oblig-app
